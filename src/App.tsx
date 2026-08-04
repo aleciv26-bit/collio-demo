@@ -57,9 +57,9 @@ function App() {
               </button>
             </div>
 
-            {/* Iframe collegato alla WebApp Vercel */}
+            {/* Iframe collegato alla WebApp Vercel corretta */}
             <iframe
-              src="https://wineassistant.vercel.app"
+              src="https://winebot-xi.vercel.app/"
               className="w-full flex-1 border-none"
               title="WineAssistant Chat"
             />
